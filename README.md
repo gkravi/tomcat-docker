@@ -1,5 +1,11 @@
 # tomcat-docker
 
+### This Docker image is official tomcat:9.0.34 version, if required version can be updated. 
+
+## Add the war file if need to be deployed in root directory of project
+
+## Modify server.xml, web.xml, cataline.properties or cataline.sh if required or remove the file(s) from root directory
+
 ## Create docker image build using below command
 
 ```
